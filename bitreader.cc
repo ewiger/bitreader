@@ -28,11 +28,10 @@
  */
 
 #include <cstdlib>
+#include <cstdio>
+#include <cstring>
 #include <iostream>
 #include <fstream>
-
-#include <stdio.h>
-#include <stdlib.h>
 
 using namespace std;
 
