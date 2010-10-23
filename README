@@ -1,0 +1,12 @@
+    Bit Reader
+    ==========
+
+Bit Reader reads a file and outputs its data as a binary string of {0,1}.
+I wrote it to debug my manipulations with binary data representation.
+Program's code is a single C++ file and redistributed under FreeBSD license.
+
+Usage: bitreader <filename>
+
+wbr,
+Y.Y.
+
